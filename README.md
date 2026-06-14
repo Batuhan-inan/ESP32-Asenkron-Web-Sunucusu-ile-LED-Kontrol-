@@ -8,7 +8,7 @@ Bu proje, ESP32 mikrodenetleyicisine bağlı fiziksel bir LED'i; HTML, CSS ve ye
 * **Duyarlı (Responsive) Arayüz:** Hem masaüstü hem de mobil tarayıcılarla tam uyumlu, gözü yormayan karanlık tema (Dark Mode) bir kontrol paneline sahiptir.
 
 ## 🛠️ Donanım Gereksinimleri
-* ESP32 Geliştirme Kartı (Örn: DOIT NodeMCU ESP32)
+* ESP32 Geliştirme Kartı 
 * Harici bir LED ve uygun direnç
 * Type-C-USB Kablosu
 
